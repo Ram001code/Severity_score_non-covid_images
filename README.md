@@ -1,0 +1,1 @@
+# Severity_score_non-covid_images
